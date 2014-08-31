@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: ontophandler.zip
+       Short Description: sample C++ source code to keep a window "on top"
+        Long Description: very simple C++ class derived from IHandler used to keep a frame window "on top" of all other windows -- based on code provided by Bill Law at Netscape; this version fixes the screen redraw problem from earlier versions
+
+      Proposed directory
+           for placement: /pub/os2/dev/cplusplus
+
+               Your name: Stephane Charette
+           Email address: charette@writeme.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp 4+ (may also work on 3.x)
+ Additional requirements: IBM VisualAge C++ v3+ for OS/2
+
+                Replaces: /pub/os2/dev/cplusplus/ontophandler.zip
+
+
+
